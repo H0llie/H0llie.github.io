@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm sure you can read my LinkedIn profile if you want to find out what my technical background is. But who am I really? 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm the type of person that will help you painstakingly take apart a needlessly complex salad spinner to clear out the mold.
+I'm the type of person that will figure out what's wrong with my car _before_ I bring it to the mechanic for repairs.
+I'm the type of person that will look at newly released cloud tech and think about all the ways it could be used improperly.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Most importantly though, I'm the type of person that has the memory of a squirrel, which means I'm documenting all my exciting (or mundane) learnings here for all to enjoy. As they say in the medical field, you must see one, do one, and teach one in order to truly master a procedure. Hopefully I'm not too painfully corny in my teachings, but no promises.
